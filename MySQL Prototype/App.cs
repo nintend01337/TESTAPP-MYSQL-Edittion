@@ -2,6 +2,7 @@
 using MySQL_Prototype.Helpers;
 using System;
 
+
 namespace MySQL_Prototype
 {
     public class App
